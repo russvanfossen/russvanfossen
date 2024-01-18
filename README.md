@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### Welcome to my GitHub page.
+Most of my projects are tools I've used at various times at various places. They're not much, but they're honest work 👨‍🌾 (aka mostly copied from stackoverflow). <br>
+I use python mostly. I've leared VB and VBS mostly out of necessity. I've also dabbled in many other languages as needed. I'm always looking to add new skills. <br>
 
 <!--
 **russvanfossen/russvanfossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
